@@ -1,0 +1,21 @@
+{
+    "foodList" : [
+        {"name": "햄버거", "emoji": "🍔", "price": 100
+        },
+        {"name": "햄버거", "emoji": "🍔", "text": "맛있다"
+        }
+    ],
+    "menus": [
+        { "name": "사과","emoji": "🍎","source": "청송"
+        },
+        { "name": "사과","emoji": "🍎","price": 100,"source": "청송"
+        }
+    ],
+    "employees":[
+        {"name":"홍길동","age":30,"department":"a"},
+        {"name":"홍길동","age":30,"department":"a","emoji":"🍕"},
+        {"name":"홍길동","age":30,"department":"a"},
+        {"name":"홍길동","age":30,"department":"a"},
+        {"name":"홍길동","age":30,"department":"a","emoji":"🍕"}
+    ]
+}
